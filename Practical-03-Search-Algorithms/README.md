@@ -34,6 +34,3 @@ The algorithms are evaluated using the path obtained, number of nodes explored, 
 - heapq
 - time
 
-## Result
-
-The different search algorithms were successfully implemented and compared. The practical helped in understanding how different search techniques work and how their performance varies based on the problem and search strategy.
